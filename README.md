@@ -12,3 +12,7 @@ https://matrix.org/docs/projects/bridge/matrix-appservice-discord
 
 https://t2bot.io/discord/
 
+registern new user from client
+
+https://github.com/matrix-org/synapse#registering-a-new-user-from-a-client
+
